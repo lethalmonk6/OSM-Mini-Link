@@ -15,3 +15,8 @@ The rest of the case is printed in FDM PLA.
 ![top](https://github.com/user-attachments/assets/95d96ff6-3a3e-4acd-9539-5c857a3a7f9e)
 
 
+## 3D Printing
+Per guidelines from the OSM-Mini
+>Each piece should be placed flat down on the print bed to ensure maximum strength.
+
+>Each of the corner pieces should be oriented on their outside facing large surface flat down and printed at the lowest possible layer height to ensure a good quality print.
