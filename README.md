@@ -2,6 +2,8 @@
 The OSM-Mini Link is a customized version of the OSM-Mini https://github.com/OpenStickCommunity/Hardware/tree/main/3D%20Prints/Open%20Stick%20Modular%20-%20Mini%20(OSM-Mini), modified to include a compartment to hold a removable Phreakmods Link Shaft with topper.
 It is designed to fit a Sanwa JLF rotated 90 degrees.
 
+The overall dimensions of the case are 250mm x 200mm x 50.8mm
+
 The top panel layout is the 6GAWD layout by jonyfraze, condensed to fit within the case dimensions and modified to use all 24mm buttons.
 
 
