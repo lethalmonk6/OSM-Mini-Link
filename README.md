@@ -36,4 +36,6 @@ The Left Side Panel should also be printed outside face down.
 | M4x16mm Countersunk Screw | 16 |
 | M4 Flange Nut | 16 |
 
+M3 and M4 Countersunk Screw quantities were optimized for use with quantities in this mixed screw kit: https://www.aliexpress.us/item/3256805779852270 
+
 
