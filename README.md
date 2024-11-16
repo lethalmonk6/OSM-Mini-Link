@@ -23,3 +23,17 @@ Per guidelines from the OSM-Mini
 >Each of the corner pieces should be oriented on their outside facing large surface flat down and printed at the lowest possible layer height to ensure a good quality print.
 
 The Left Side Panel should also be printed outside face down.
+
+
+## Fasteners and Hardware
+| Item | Quantity |
+| --- | --- |
+| M3x20mm Countersunk Screw | 4 |
+| M3x8mm Pan Head Screw | 4 |
+| M3 Nut | 4 |
+| M4x35 Hex Standoff | 5 |
+| M4x12mm Countersunk Screw | 14 |
+| M4x16mm Countersunk Screw | 16 |
+| M4 Flange Nut | 16 |
+
+
