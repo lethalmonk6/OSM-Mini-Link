@@ -45,3 +45,11 @@ The rest of the case is printed in FDM PLA.
 M3 and M4 Countersunk Screw quantities were optimized for use with quantities in 482 piece M3 M4 M5 mixed screw kit: https://www.aliexpress.us/item/3256805779852270.html
 
 
+## Resources
+
+OpenStickCommunity Discord - https://discord.gg/jw96duZs
+
+OpenStickCommunity Discord - Open Stick Case channel - https://discord.com/channels/1049366310389289001/1127612848042934334
+
+OSM-Mini GitHub Repository - https://github.com/OpenStickCommunity/Hardware/tree/main/3D%20Prints/Open%20Stick%20Modular%20-%20Mini%20(OSM-Mini)
+
