@@ -1,4 +1,9 @@
 # OSM-Mini Link
+![PXL_20241117_195827448](https://github.com/user-attachments/assets/e4bf787a-2b98-40dc-89e7-3b37c435b14b)
+![PXL_20241117_195035994](https://github.com/user-attachments/assets/18b96109-616d-44fc-b3a4-a61a67ca3e0c)
+![PXL_20241117_195514627](https://github.com/user-attachments/assets/24d88fdc-897a-4eda-9c39-0d3ca370ce4d)
+
+
 The OSM-Mini Link is a customized version of the OSM-Mini https://github.com/OpenStickCommunity/Hardware/tree/main/3D%20Prints/Open%20Stick%20Modular%20-%20Mini%20(OSM-Mini), modified to include a compartment to hold a removable Phreakmods Link Shaft with topper.
 It is designed to fit a Sanwa JLF rotated 90 degrees.
 
@@ -8,7 +13,6 @@ The top panel layout is the 6GAWD layout by jonyfraze, condensed to fit within t
 
 
 The Link Holder Knub is adapted from https://github.com/BolSadguy/Link-Holder-2.0. It should be printed in SLA Resin for strength.
-
 
 The rest of the case is printed in FDM PLA.
 ![iso1](https://github.com/user-attachments/assets/bad42aa0-6ed8-49de-9591-b7de43bdacca)
@@ -24,6 +28,8 @@ Per guidelines from the OSM-Mini
 
 The Left Side Panel should also be printed outside face down.
 
+The Link Holder Knub should be printed in SLA Resin for strength.
+The rest of the case is printed in FDM PLA. 
 
 ## Fasteners and Hardware
 | Item | Quantity |
