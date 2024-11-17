@@ -32,15 +32,15 @@ The Link Holder Knub should be printed in SLA Resin for strength.
 The rest of the case is printed in FDM PLA. 
 
 ## Fasteners and Hardware
-| Item | Quantity |
-| --- | --- |
-| M3x20mm Countersunk Screw | 4 |
-| M3x8mm Pan Head Screw | 4 |
-| M3 Nut | 4 |
-| M4x35 Hex Standoff | 5 |
-| M4x12mm Countersunk Screw | 14 |
-| M4x16mm Countersunk Screw | 16 |
-| M4 Flange Nut | 16 |
+| Item | Quantity | Usage notes |
+| --- | --- | ---
+| M3x20mm Countersunk Screw | 4 | Neutrik and Link Holder Knub into Side Panels
+| M3x8mm Pan Head Screw | 4 | PCB into Bottom Panel Standoffs
+| M3 Nut | 4 | 
+| M4x35 Hex Standoff | 5 | Installed into Corner Posts and Left Side Panel
+| M4x12mm Countersunk Screw | 14 | Top and Bottom Panels into Hex Standoffs in Corner Posts
+| M4x16mm Countersunk Screw | 16 | Side Panels into Corner Posts
+| M4 Flange Nut | 16 | 
 
 M3 and M4 Countersunk Screw quantities were optimized for use with quantities in 482 piece M3 M4 M5 mixed screw kit: https://www.aliexpress.us/item/3256805779852270.html
 
