@@ -9,7 +9,7 @@ It is designed to fit a Sanwa JLF rotated 90 degrees.
 
 The overall dimensions of the case are 250mm x 200mm x 50.8mm
 
-The top panel layout is the 6GAWD layout by jonyfraze, condensed to fit within the case dimensions and modified to use all 24mm buttons.
+The top panel layout is the 6GAWD layout by jonyfraze, condensed to fit within the case dimensions and modified to use all 24mm buttons. Sitong ST-LP Low Profile buttons were used, other buttons were not tested and may not fit.
 
 
 The Link Holder Knub is adapted from https://github.com/BolSadguy/Link-Holder-2.0. It should be printed in SLA Resin for strength.
