@@ -38,7 +38,7 @@ The rest of the case is printed in FDM PLA.
 | M3x8mm Pan Head Screw | 4 | PCB into Bottom Panel Standoffs
 | M3 Nut | 4 | 
 | M4x35 Hex Standoff | 5 | Installed into Corner Posts and Left Side Panel
-| M4x12mm Countersunk Screw | 14 | Top and Bottom Panels into Hex Standoffs in Corner Posts
+| M4x12mm Countersunk Screw | 14 | Top and Bottom Panels into Hex Standoffs in Corner Posts, JLF Mount
 | M4x16mm Countersunk Screw | 16 | Side Panels into Corner Posts
 | M4 Flange Nut | 16 | 
 
