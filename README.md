@@ -44,6 +44,12 @@ The rest of the case is printed in FDM PLA.
 
 M3 and M4 Countersunk Screw quantities were optimized for use with quantities in 482 piece M3 M4 M5 mixed screw kit: https://www.aliexpress.us/item/3256805779852270.html
 
+## Notes
+The clearance between the JLF and the wall of the Link holder compartment is extremely tight. If you want a little more breathing room, you can shift the entire Link holder compartment down.
+
+The center post is not necessary, and you may not even be able to install it depending on your button layout and wiring.
+
+The front and back walls flex a little bit, this is noticeable when plugging and removing a USB cable from the port. If I were to make a revision, I would add some small pins to secure the walls into the case top and bottom at the midspan.
 
 ## Resources
 
